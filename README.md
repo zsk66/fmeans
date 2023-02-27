@@ -5,7 +5,7 @@ This repo holds the source code and scripts for reproducing the key experiments 
 
 ## Datasets
 
-We give four datasets here: bank, census, creditcard and diabetes with 1000 samples. For more datasets, you could download from [UCI repo] (https://archive.ics.uci.edu/ml/datasets.php) 
+We give four datasets here: bank, census, creditcard and diabetes with 1000 samples. For more datasets, you could download from the following repositories, and process them into .mat format. 
 | __Dataset__ | __link__ | __Dimension__ |
 |-------------|------------|------------|
 |Covtype|https://archive.ics.uci.edu/ml/datasets/covertype|54|
