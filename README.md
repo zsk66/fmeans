@@ -9,7 +9,7 @@ We give four datasets here: bank, census, creditcard and diabetes with 1000 samp
 | __Dataset__ | __link__ | __Dimension__ |
 |-------------|------------|------------|
 |Covtype|https://archive.ics.uci.edu/ml/datasets/covertype|54|
-|KDD|https://osmot.cs.cornell.edu/kddcup/datasets.html |18|
+|KDD|https://osmot.cs.cornell.edu/kddcup/datasets.html |74|
 |3D-spatial-network|https://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29|3|
 |urbanGB|https://archive.ics.uci.edu/ml/datasets/UrbanGB%2C+urban+road+accidents+coordinates+labelled+by+the+urban+center|2|
 |NYC-Taxi|https://drive.google.com/open?id=1CH_FPB4deDVFm_zDvyya5YMbFBOOz7Bn|2|
