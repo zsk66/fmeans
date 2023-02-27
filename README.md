@@ -14,7 +14,7 @@ We give four datasets here: bank, census, creditcard and diabetes with 1000 samp
 |urbanGB|https://archive.ics.uci.edu/ml/datasets/UrbanGB%2C+urban+road+accidents+coordinates+labelled+by+the+urban+center|2|
 |NYC-Taxi|https://drive.google.com/open?id=1CH_FPB4deDVFm_zDvyya5YMbFBOOz7Bn|2|
 |t-drive|http://www.cs.cornell.edu/~wenleix/paper/tdrive.pdf |2|
-## Stard
+## Start
  ```
 run main.m 
  ```
